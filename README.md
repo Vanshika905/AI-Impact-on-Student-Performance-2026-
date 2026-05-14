@@ -68,6 +68,8 @@ This project uses a synthetic dataset for educational and research purposes.
 - Compare multiple explainability techniques
 - Build recommendation systems for personalized AI learning
 
+## Kaggle Notebook : https://www.kaggle.com/code/vanshikanausran/ai-in-education-2026-does-chatgpt-really-boost-gpa
+
 👤 Author
 Vanshika
 LinkedIn: www.linkedin.com/in/vanshika-173850304
